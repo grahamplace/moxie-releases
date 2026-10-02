@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>Moxie</title>
         <item>
             <title>1.0.2</title>
-            <pubDate>Thu, 01 Oct 2026 17:33:58 -0700</pubDate>
+            <pubDate>Thu, 01 Oct 2026 17:40:08 -0700</pubDate>
             <sparkle:version>132</sparkle:version>
             <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.2</sparkle:minimumSystemVersion>
@@ -16,18 +16,15 @@
         </item>
         <item>
             <title>1.0.1</title>
-            <pubDate>Thu, 01 Oct 2026 17:24:04 -0700</pubDate>
+            <pubDate>Thu, 01 Oct 2026 17:40:08 -0700</pubDate>
             <sparkle:version>130</sparkle:version>
             <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.2</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/grahamplace/moxie-releases/releases/download/updates/Moxie-1.0.1.dmg" length="2717245" type="application/octet-stream" sparkle:edSignature="Tr0QkUPNMOXNgaI094i6wV3Xq4Dr2mmSf6eMejGxFkM98mIefucbaBfl+3AjsaIpLV4+3wPv0cgUqiRKoqV0AQ=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/grahamplace/moxie-releases/releases/download/updates/Moxie130-129.delta" sparkle:deltaFrom="129" length="10914" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="HR4WWAjC1wALuHWqHJBoS5SzF3UWuW8wjqH6MIhZWqhtHoiKVmSxQ9jzibkjX5bKkW0pqiehbxC+4PhCEkvxDw=="/>
-            </sparkle:deltas>
         </item>
         <item>
             <title>1.0.0</title>
-            <pubDate>Thu, 01 Oct 2026 17:20:59 -0700</pubDate>
+            <pubDate>Thu, 01 Oct 2026 17:40:08 -0700</pubDate>
             <sparkle:version>129</sparkle:version>
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.2</sparkle:minimumSystemVersion>
