@@ -3,6 +3,18 @@
     <channel>
         <title>Moxie</title>
         <item>
+            <title>1.0.2</title>
+            <pubDate>Thu, 01 Oct 2026 17:33:58 -0700</pubDate>
+            <sparkle:version>132</sparkle:version>
+            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.2</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/grahamplace/moxie-releases/releases/download/updates/Moxie-1.0.2.dmg" length="2909798" type="application/octet-stream" sparkle:edSignature="yntxrEUKMRX17WptynnpjGmw7WpnRMzQayC9kdhTi6v3ZiMJC9yQU8p+XQMzPgsz+9KXOdUymPNEHqin7X+xBw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/grahamplace/moxie-releases/releases/download/updates/Moxie132-130.delta" sparkle:deltaFrom="130" length="324606" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="w8N1XXMnA0I4f7F36u9ENsNiFWdLFcNiTDqX96UrG6hluXam46qHH4KTEN6PpgFwgLvQ9/FXdtlwfGJvoN89Bw=="/>
+                <enclosure url="https://github.com/grahamplace/moxie-releases/releases/download/updates/Moxie132-129.delta" sparkle:deltaFrom="129" length="328354" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="43JmoTj+zlmmCJMCct9n/s3zKji5FiL1Fu9NjE9o1hxieeVCUYRK4MPHJI9U/lG33U1JdmnHhCEykmwpiLtKCw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.0.1</title>
             <pubDate>Thu, 01 Oct 2026 17:24:04 -0700</pubDate>
             <sparkle:version>130</sparkle:version>
